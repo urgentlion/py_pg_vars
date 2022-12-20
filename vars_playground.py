@@ -1,15 +1,16 @@
-print("This is a test")
-print("this is a second test to show that github is configured with local repository")
-#This is a single-line line comment for testing.
+# print("Everyday is better than yestarday")
+# print("This is a test to push to github")
+# print("data analytics can be very difficult at times")
+# print("This is a print statement")
+# print("Algoexpert is the best!")
 
-"""
-This is a 
-multi-line comment
-appearing in multiple lines.
-"""
+# text = "AlgoExpert is the best!"
+# print(text)
 
-'''
-This is another
-multi-line comment
-appearing in multiple lines.
-'''
+x = 2
+y = 7
+z = True
+
+print(x, y, z)
+
+
